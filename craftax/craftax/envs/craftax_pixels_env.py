@@ -154,4 +154,3 @@ class CraftaxPixelsEnv(environment.Environment):
             ),
             dtype=jnp.float32,
         )
-        )
